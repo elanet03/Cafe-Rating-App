@@ -1,4 +1,4 @@
-# Cafe-Rating-App
+# Caffeinated
 Overview
 The CafeRating project is a decentralized application (dApp) designed to manage and share ratings for cafes. Built with the Motoko language for the Internet Computer blockchain, this project enables users to register cafes, submit detailed ratings, and view comprehensive data about cafes and their average ratings.
 
